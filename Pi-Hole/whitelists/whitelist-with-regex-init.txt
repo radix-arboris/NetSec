@@ -1,0 +1,46 @@
+duckduckgo.com
+detectportal.firefox.com
+(\.|^)chs\.net$
+outlook.office365.com
+
+# Dev
+
+github.com
+(\.|^)stackoverflow\.com$
+(\.|^)githubusercontent\.com$
+(\.|^)git\.io$
+(\.|^)gitlab\.com$
+(\.|^)githubapp\.com$
+(\.|^)w3schools\.com$
+(\.|^)docker\.io$
+
+# Google
+
+(\.|^)accounts\.google\.com$
+(\.|^)play\.google\.com$
+(\.|^)ssl\.gstatic\.com$
+(\.|^)calendar\.google\.com$
+(\.|^)docs\.google\.com$
+(\.|^)calendar\.google\.com$
+(\.|^)drive\.google\.com$
+(\.|^)classroom\.google\.com$
+google.com
+imap.gmail.com
+www.google.com
+www.googleapis.com
+play.googleapis.com
+youtubei.googleapis.com
+youtube.googleapis.com
+www.youtube.com
+app-measurement.com
+
+# Social Media
+
+www.reddit.com
+preview.redd.it
+www.yahoo.com
+(\.|^)video\.yahoo\.com$
+news.yahoo.com
+finance.yahoo.com
+(\.|^)udc\.yahoo\.com$
+(\.|^)video-api\.yql\.yahoo\.com$
