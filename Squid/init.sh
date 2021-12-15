@@ -12,7 +12,7 @@ squid_version=""
 conf_file="/etc/squid${squid_version}/squid.conf"
 cred_file="/etc/squid${squid_version}/creds.txt"
 apt update
-apt install squid
+apt install -fy squid apache2-utils
 systemctl enable squid
 cp confs/squid.conf $conf_file
 touch $cred_file && chmod 777 $cred_file
