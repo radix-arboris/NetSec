@@ -1,6 +1,10 @@
 #!/bin/bash
 
 ### Make sure to create/change cache dir and cache size if neeeded ###
+### http_port is set to 3333 ###
+### use the provided username and password examples to authenticate connection to the proxy ###
+### or replace the credentials with your own ###
+
 if (( $EUID != 0 )); then
   echo "This must be run as root. Type in 'sudo bash $0' to run it as root."
   exit 1
