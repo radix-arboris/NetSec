@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# must be an x86 OS for smooth sailing.
+
 # I have my sub.domain.tld going to a load balacer, and then redirecting
 # to the $node_ip on a vlan
+
 
 node_ip="192.168.0.14"
 
