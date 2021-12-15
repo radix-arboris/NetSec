@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+
+##########
+#	curl -sSL https://install.pi-hole.net | bash
+##########
+
+
 # shellcheck disable=SC1090
 
 # Pi-hole: A black hole for Internet advertisements
