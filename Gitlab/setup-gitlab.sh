@@ -14,7 +14,7 @@ if (( $EUID != 0 )); then
   exit 1
 fi
 
-
+apt update
 apt-get install -fy curl openssh-server ca-certificates apt-transport-https perl
 curl https://packages.gitlab.com/gpg.key | sudo tee /etc/apt/trusted.gpg.d/gitlab.asc
 apt-get install -y postfix
