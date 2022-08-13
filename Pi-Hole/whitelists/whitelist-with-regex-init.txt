@@ -2,9 +2,6 @@ duckduckgo.com
 detectportal.firefox.com
 (\.|^)chs\.net$
 outlook.office365.com
-
-# Dev
-
 github.com
 (\.|^)stackoverflow\.com$
 (\.|^)githubusercontent\.com$
@@ -13,9 +10,6 @@ github.com
 (\.|^)githubapp\.com$
 (\.|^)w3schools\.com$
 (\.|^)docker\.io$
-
-# Google
-
 (\.|^)accounts\.google\.com$
 (\.|^)play\.google\.com$
 (\.|^)ssl\.gstatic\.com$
@@ -33,9 +27,6 @@ youtubei.googleapis.com
 youtube.googleapis.com
 www.youtube.com
 app-measurement.com
-
-# Social Media
-
 www.reddit.com
 preview.redd.it
 www.yahoo.com
